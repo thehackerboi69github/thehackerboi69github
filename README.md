@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm Hackerboi 69, I code Discord bots with Node.JS and I'm building some other JavaScript projects!
+#### I'm Hackerboi 69, I code Discord bots with NodeJS and I'm building some other JavaScript projects!
 
 ## You can find me at
 ### Discord
