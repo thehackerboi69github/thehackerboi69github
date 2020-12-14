@@ -2,11 +2,21 @@
 
 #### I'm Hackerboi 69, I code Discord bots with Node.JS and I'm building some other JavaScript projects!
 
-## Links
-- [NPM](https://npmjs.org/~thehackerboi69)
-- [GitHub](https://github.com/thehackerboi69github)
-- [Discord Bots](https://top.gg/user/639734140157165569)
-- [BOT DEV ZONE](https://discord.gg/rmHeFV5xXG)
-- [Vibe Space](https://discord.gg/2aUrXxK)
+## You can find me at
+### Discord
+* [BOT DEV ZONE](https://discord.gg/rmHeFV5xXG)
+* [Vibe Space](https://discord.gg/2aUrXxK)
 
-### More will come soon...
+### Twitter
+* [thehackerboi69](https://twitter.com/thehackerboi69)
+
+## Things I'm working on
+### Discord Bots
+* [BitBot](https://top.gg/bot/743118972106309723)
+* [HypeBot](https://top.gg/bot/764092712084701184)
+
+### NPM
+* [discord-premium-utils](https://www.npmjs.com/package/discord-premium-utils)
+
+
+### More will come soon!
